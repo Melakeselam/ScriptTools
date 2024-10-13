@@ -7,7 +7,7 @@ Collection of useful scripts for various tools and tasks.
 
 This repository includes several script tools for various use cases. You can install and configure any script from this repository using the `installer.sh` script. This script allows you to set up an alias for quick access to the tools.
 
-### How to Use `installer.sh`:
+### How to Use `install.sh`:
 
 1. **Clone the Repository:**
 
@@ -17,9 +17,9 @@ This repository includes several script tools for various use cases. You can ins
    git clone git@github.com:YOUR_USERNAME/ScriptTools.git
    cd ScriptTools
    ```
-1. **Run the Installer Script:**
+1. **Run the Install Script:**
 
-    Run the installer.sh script with the name of the script tool you want to install:
+    Run the install.sh script with the name of the script tool you want to install:
 
     ```bash
     ./install.sh <script_name>
